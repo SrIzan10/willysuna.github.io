@@ -11,12 +11,12 @@ display: block;
 }
 
 a {
-color: #4E5D94;
+color: #65c24a;
 font-size: 20px;
 }
 
 body {
-background: linear-gradient(-45deg, #1a84b8, #1a8cb8, #1a94b8, #1a9cb8, #1aa4b8);
+background: linear-gradient(-45deg, #6865c9, #5b58ad, #49468a, #333061, #1b1a33);
 background-size: 400% 400%;
 animation: gradient 15s ease infinite;
 height: 100vh;
